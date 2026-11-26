@@ -1,0 +1,1 @@
+e-Demirturk masaustu uygulamasi icin arayuz guncelleme paketleri. Kaynak kod bu depoda degildir.
